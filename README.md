@@ -7,6 +7,8 @@ The app router will ideally be removed and only the `/App` folder would exist wh
 The code challenges here should demo knowledge of state management, api usage, react render lifecycle & api debugging.
 This can be delivered to candidates as a standalone repo, or hosted on a site like codesandbox to remove the env issues that may arise.
 
+Once the code challenge is complete, the interview panel may ask questions regarding testing and how best to ensure code change quality, this will provide insight into the candidates forsite to reusability and component isolation testing.
+
 # CloudCorp's "Movies" Service
 
 Hi! Welcome to cloud corp. You should have received information about
