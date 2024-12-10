@@ -7,12 +7,12 @@ The app router will ideally be removed and only the `/App` folder would exist wh
 The code challenges here should demo knowledge of state management, api usage, react render lifecycle & api debugging.
 This can be delivered to candidates as a standalone repo, or hosted on a site like codesandbox to remove the env issues that may arise.
 
-Once the code challenge is complete, the interview panel may ask questions regarding testing and how best to ensure code change quality, this will provide insight into the candidates forsite to reusability and component isolation testing.
+Once the code challenge is complete, the interview panel may ask questions regarding testing and how best to ensure code change quality, this will provide insight into the candidates foresight to reusability and component isolation testing.
 
 # CloudCorp's "Movies" Service
 
 Hi! Welcome to cloud corp. You should have received information about
-what we want you to build seperately. This README will cover the project requirements and some tips to get started using the provided scripts.
+what we want you to build separately. This README will cover the project requirements and some tips to get started using the provided scripts.
 
 **Note:**
 
@@ -48,4 +48,4 @@ The users would like to:
 
 ## Pt 3. (bonus)
 
-1. Developers have reporting manaing the search, film list and selected film data through the different layers of state is a problem, figure out a way to consolidate the state management.
+1. Developers have reporting managing the search, film list and selected film data through the different layers of state is a problem, figure out a way to consolidate the state management.
